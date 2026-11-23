@@ -1,2 +1,7 @@
 1.5.0
 https://www.nexusmods.com/darksouls2/mods/1830
+Italian mode: official Italian names of items, bonfires, areas, bosses, covenants
+ItemGib search works in English and Italian
+Character Editor: Undo button (last 20 changes)
+Quick Access: Covenants instead of Unlock All Bonfires
+Fixes in Advanced
