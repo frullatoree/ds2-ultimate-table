@@ -1,4 +1,4 @@
-2.0.0
+2.1.0
 https://www.nexusmods.com/darksouls2/mods/1830
 New HOME ^-^ window: features, cheats, backup, settings and credits in one place
 New cheat: Player Speed (only your character, x0.5 - x3)
