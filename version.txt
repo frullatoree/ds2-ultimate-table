@@ -1,9 +1,7 @@
-2.1.0
+2.2.0
 https://www.nexusmods.com/darksouls2/mods/1830
-New HOME ^-^ window: features, cheats, backup, settings and credits in one place
-New cheat: Player Speed (only your character, x0.5 - x3)
-Keybinds: change the key of every function
-Quick Save (F3) and Quick Return (F4) position
-Bonfire Warp: favorites and recent warps
-Character Editor: Soul Level follows the attributes
-Cheats split into Survival, Movement, Enemies and Equipment
+HOME: new STATS page (character, journey, bonfire intensity)
+New Game+ Cycle and Bonfire Intensity: change them from the table
+Item Discovery Boost: enemies drop more items (x2, x5, x10)
+Character Editor: Become Human and Become Hollow
+HOME: search in MAIN FEATURES and CHEATS
