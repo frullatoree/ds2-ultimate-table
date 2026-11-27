@@ -1,7 +1,3 @@
-2.2.0
+2.2.1
 https://www.nexusmods.com/darksouls2/mods/1830
-HOME: new STATS page (character, journey, bonfire intensity)
-New Game+ Cycle and Bonfire Intensity: change them from the table
-Item Discovery Boost: enemies drop more items (x2, x5, x10)
-Character Editor: Become Human and Become Hollow
-HOME: search in MAIN FEATURES and CHEATS
+Fix: ItemGib not working on some setups ("attempt to perform arithmetic on a nil value")
