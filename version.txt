@@ -1,3 +1,6 @@
-2.2.1
+2.3.0
 https://www.nexusmods.com/darksouls2/mods/1830
-Fix: ItemGib not working on some setups ("attempt to perform arithmetic on a nil value")
+Character Editor: attributes count right away (attack, weapon requirements, HP, stamina...)
+Bonfire Warp: search by area name too (for example "Iron Keep")
+Character Editor: no more error on Apply Weapon / Apply Armor right after opening it
+ItemGib: "game data not found" fixed when the table is enabled before loading the character
