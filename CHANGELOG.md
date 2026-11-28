@@ -3,6 +3,12 @@
 All notable changes to Dark Souls 2 Ultimate Cheat Engine Table (frullo edition).
 Download: https://www.nexusmods.com/darksouls2/mods/1830
 
+## 2.3
+- Character Editor: attributes now count right away (attack, weapon requirements, HP, stamina...): before, the game used the old values until the area was loaded again
+- Fix: Character Editor, Apply Weapon / Apply Armor gave an error ("attempt to index a nil value") until you picked a slot in the menu: now the first slot is used
+- Bonfire Warp: the search also finds the area name (for example "Iron Keep" lists all its bonfires)
+- ItemGib: the fix for "The game data was not found" now also works when the table was enabled too early, and the message shows details to report
+
 ## 2.2.1
 - Fix: on some setups ItemGib did not work ("attempt to perform arithmetic on a nil value"): the table now reads the game data even when a param has an unusual name, and shows a clear message if something is missing
 
